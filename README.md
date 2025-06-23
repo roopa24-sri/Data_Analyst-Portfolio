@@ -2,7 +2,7 @@
 
 I’m **Roopasri R.**, a Data Science graduate with a strong foundation in statistical analysis, data visualization, and business intelligence. With hands-on experience in tools like **Python**, **SQL**, **Tableau**, and **Excel**, I am passionate about translating data into actionable insights that support strategic decision-making.
 
-My academic background, complemented by internships and technical projects, has equipped me with the analytical mindset and technical expertise required to contribute meaningfully as a ** Data Analyst**. I am currently seeking opportunities where I can apply my skills in a collaborative, data-driven environment.
+My academic background, complemented by internships and technical projects, has equipped me with the analytical mindset and technical expertise required to contribute meaningfully as a **Data Analyst**. I am currently seeking opportunities where I can apply my skills in a collaborative, data-driven environment.
 
 ---
 
@@ -32,10 +32,12 @@ My academic background, complemented by internships and technical projects, has 
 ## Certifications
 * **Data Analytics Virtual Job Simulation – Deloitte (Forage)([ View Here](https://github.com/user-attachments/files/20860997/deloitte_completion_certificate.pdf)
 )** - 2025
+  
 *Completed a real-world analytics simulation involving data cleaning, client reporting, and data visualization. Applied Excel and business insight skills to solve practical problems.*
 
 * **Google Analytics Certification([ View Here](https://github.com/user-attachments/assets/8a476b1b-9193-4628-95dc-4ff7f291e6aa)
 )** - 2024
+  
 *Demonstrated proficiency in using Google Analytics to track, measure, and interpret website traffic and user behavior.*
 
 ---
@@ -51,6 +53,7 @@ This GitHub repository is dedicated to:
 ---
 
 📄 **[Resume - View Here](https://github.com/user-attachments/files/20860874/Roopasri.R.-.Data.Analyst-.Resume.pdf)**
+
 🔗 **[LinkedIn – Roopasri R.](https://www.linkedin.com/in/roopasri-r-9b54b5222)**
 
 ---
