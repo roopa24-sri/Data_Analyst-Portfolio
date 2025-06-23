@@ -4,6 +4,8 @@ I’m **Roopasri R.**, a Data Science graduate with a strong foundation in stati
 
 My academic background, complemented by internships and technical projects, has equipped me with the analytical mindset and technical expertise required to contribute meaningfully as a **Data Analyst**. I am currently seeking opportunities where I can apply my skills in a collaborative, data-driven environment.
 
+**[Resume - View Here](https://github.com/user-attachments/files/20860874/Roopasri.R.-.Data.Analyst-.Resume.pdf)**
+
 ---
 
 ## Core Competencies
@@ -51,9 +53,8 @@ This GitHub repository is dedicated to:
 * Demonstrating my ability to apply technical knowledge to real-world problems
 
 ---
+🔗 **[Email](roopasriramesh24@gmail.com)**
 
-📄 **[Resume - View Here](https://github.com/user-attachments/files/20860874/Roopasri.R.-.Data.Analyst-.Resume.pdf)**
-
-🔗 **[LinkedIn – Roopasri R.](https://www.linkedin.com/in/roopasri-r-9b54b5222)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/roopasri-r-9b54b5222)**
 
 ---
