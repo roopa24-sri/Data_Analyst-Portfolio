@@ -43,21 +43,21 @@ My academic background, complemented by internships and technical projects, has 
 *Demonstrated proficiency in using Google Analytics to track, measure, and interpret website traffic and user behavior.*
 
 ---
-## 🌟 Featured Case Studies
+## Featured Case Studies
 
 A collection of uniquely crafted, real-world analytics projects demonstrating my ability to solve domain-specific problems through data-driven insights:
 
-1. 🎮 [**Detecting Pay-to-Win Behavior in Competitive Mobile Games**](projects/pay-to-win-analysis/README.md)  
+1. [**Detecting Pay-to-Win Behavior in Competitive Mobile Games**](projects/pay-to-win-analysis/README.md)  
    _Game Analytics | Fairness Modeling | Power BI_
 
-2. 🏦 [**Rural Loan Fraud Detection via Collateral Consistency Modeling**](projects/rural-loan-fraud/README.md)  
+2. [**Rural Loan Fraud Detection via Collateral Consistency Modeling**](projects/rural-loan-fraud/README.md)  
    _FinTech | NLP & Fuzzy Matching | Tableau_
 
-3. 🖥️ [**Predicting GPU Overheating in Custom PC Builds via Forum Mining**](projects/gpu-overheat-predictor/README.md)  
+3. [**Predicting GPU Overheating in Custom PC Builds via Forum Mining**](projects/gpu-overheat-predictor/README.md)  
    _Hardware Support | Web Scraping + LDA | Streamlit_
 ---
 
-## 📂 This Repository
+## This Repository
 
 This GitHub repository is dedicated to:
 
