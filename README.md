@@ -10,11 +10,36 @@ My academic background, complemented by internships and technical projects, has 
 
 ## Core Competencies
 
-* **Programming & Analysis:** Python (Pandas, NumPy), SQL, Excel (Pivot Tables, VLOOKUP), R (basic)
-* **Data Visualization & BI Tools:** Tableau, Power BI
-* **Statistical Techniques:** A/B Testing, Forecasting, Data Modeling, KPI Analysis
-* **Databases & Tools:** MySQL, Hadoop (basic), Spark (basic), Google Analytics
-* **Soft Skills:** Problem Solving, Communication, Strategic Thinking, Team Collaboration
+* **Data Analysis & Exploration:**
+Exploratory Data Analysis (EDA), descriptive statistics, trend identification
+
+* **Data Cleaning & Preprocessing:**
+Handling missing values, outlier detection, normalization
+
+* **Data Visualization:**
+Tools: Tableau, Power BI, Matplotlib, Seaborn
+Dashboards, interactive charts, storytelling with data
+
+* **Tools & Technologies:**
+*Python*: pandas, NumPy, Matplotlib, Seaborn ; 
+ *SQL*: Joins, aggregations, subqueries, window functions ;
+ *Excel*: Pivot tables, lookups, charts
+
+* **Databases & ETL:**
+MySQL, SQLite
+Data pipelines using pandas / SQL workflows
+
+* **Reporting:**
+Creating automated reports and summaries for stakeholders
+
+* **Statistics & Business Insight:**
+Hypothesis testing, correlation, distributions, KPIs
+
+* **Machine Learning:**
+Regression, classification, using scikit-learn (for prediction-focused analysts)
+
+* **Soft Skills:**
+Problem-solving, communication, attention to detail, data-driven thinking
 
 ---
 
@@ -112,13 +137,13 @@ Developed a Convolutional Neural Network (CNN) to classify parking spots as **Oc
 
 A collection of uniquely crafted, real-world analytics projects demonstrating my ability to solve domain-specific problems through data-driven insights:
 
-1. [**Detecting Pay-to-Win Behavior in Competitive Mobile Games**](projects/pay-to-win-analysis/README.md)  
+1. [**Detecting Pay-to-Win Behavior in Competitive Mobile Games**](Case_Studies/pay-to-win-analysis/README.md)  
    _Game Analytics | Fairness Modeling_
 
-2. [**Rural Loan Fraud Detection via Collateral Consistency Modeling**](projects/rural-loan-fraud/README.md)  
+2. [**Rural Loan Fraud Detection via Collateral Consistency Modeling**](Case_Studies/rural-loan-fraud/README.md)  
    _FinTech | NLP & Fuzzy Matching_
 
-3. [**Predicting GPU Overheating in Custom PC Builds via Forum Mining**](projects/gpu-overheat-predictor/README.md)  
+3. [**Predicting GPU Overheating in Custom PC Builds via Forum Mining**](Case_Studies/gpu-overheat-predictor/README.md)  
    _Hardware Support | Web Scraping + LDA_
 ---
 
